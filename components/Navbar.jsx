@@ -13,16 +13,16 @@ export function Navbar(){
               <Link href="/">Shop</Link>
             </li>
             <li>
-              <Link href="/Men">Men</Link>
+              <Link href="/men">Men</Link>
             </li>
             <li>
-              <Link href="/Women">Women</Link>
+              <Link href="/women">Women</Link>
             </li>
             <li>
-              <Link href="/Combos">Combos</Link>
+              <Link href="/combos">Combos</Link>
             </li>
             <li>
-              <Link href="/Joggers">Joggers</Link>
+              <Link href="/joggers">Joggers</Link>
             </li>
           </ul>
         </div>
@@ -36,16 +36,16 @@ export function Navbar(){
             <Link className="font-bold" href="/">Shop</Link>
           </li>
           <li>
-            <Link href="/Men">Men</Link>
+            <Link href="/men">Men</Link>
           </li>
           <li>
-            <Link href="/Women">Women</Link>
+            <Link href="/women">Women</Link>
           </li>
           <li>
-            <Link href="/Combos">Combos</Link>
+            <Link href="/combos">Combos</Link>
           </li>
           <li>
-            <Link href="/Joggers">Joggers</Link>
+            <Link href="/joggers">Joggers</Link>
           </li>
         </ul>
       </div>
